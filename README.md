@@ -8,8 +8,8 @@ Esta aplicación esta desarrollada en REACT. Tiene interacción entre varios com
 
 ### Página realizada
 
-| Página Principal              | Página de gastos |
-| ----------------------------- | ---------------- |
-| (/screenshot/presupuesto.png) | imagen 2         |
+| Página Principal                  | Página de gastos |
+| --------------------------------- | ---------------- |
+| !["](/screenshot/presupuesto.png) | imagen 2         |
 
-![Página Principal](/screenshot/presupuesto.png)|![Página](/screenshot/presupuesto2.png)
+|![Página](/screenshot/presupuesto2.png)
